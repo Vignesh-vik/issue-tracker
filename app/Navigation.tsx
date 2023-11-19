@@ -17,7 +17,7 @@ const Navigation = () => {
 
   return (
     <>
-      <nav className="flex space-x-8 border-b px-10 h-14 items-center">
+      <nav className="flex space-x-8 border-b px-10 h-14 mb-5 items-center">
         <Link href="/">
           <AiFillBug />
         </Link>
