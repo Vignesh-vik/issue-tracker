@@ -1,12 +1,9 @@
-import React from "react";
-import Navigation from "./Navigation";
+import React from 'react'
 
 const page = () => {
   return (
-    <>
-      <Navigation></Navigation>
-    </>
-  );
-};
+    <div>Hello world</div>
+  )
+}
 
-export default page;
+export default page
